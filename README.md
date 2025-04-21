@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar4578&label=Profile%20views&color=0e75b6&style=flat" alt="onkar4578" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onkar4578" alt="onkar4578" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/AayushPatil45" alt="AayushPatil45" /></a> </p>
 
 - 🌱 I’m currently learning **Backend part of MEARN stack and python libraries opencv & mediapipe**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Onkar4578]((https://github.com/AayushPatil45))
+- 👨‍💻 All of my projects are available at ((https://github.com/AayushPatil45))
 
 - 📫 How to reach me **patilaayush3385@gmail.com**
 

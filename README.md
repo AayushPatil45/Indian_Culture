@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Aayush Patil</h1>
 <h3 align="center">A passionate MEAR stack developer which exploring AI & ML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onkar4578&label=Profile%20views&color=0e75b6&style=flat" alt="onkar4578" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AayushPatil45&label=Profile%20views&color=0e75b6&style=flat" alt="AayushPatil45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/AayushPatil45" alt="AayushPatil45" /></a> </p>
 
 - 🌱 I’m currently learning **Backend part of MEARN stack and python libraries opencv & mediapipe**
 
-- 👨‍💻 All of my projects are available at ((https://github.com/AayushPatil45))
+- 👨‍💻 All of my projects are available at [https://github.com/AayushPatil45]
 
 - 📫 How to reach me **patilaayush3385@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="(https://www.linkedin.com/in/aayushpatil45/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayushpatil45/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aayushpatil_45/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/onkar___45" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aayushpatil_45/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aayushpatil_45" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
